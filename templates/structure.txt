@@ -1,0 +1,6 @@
+<tool>/<year>-<slug>/
+  README.md
+  manuscript/
+  figures/
+  bibliography/
+  artifacts/
