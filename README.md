@@ -1,2 +1,1 @@
-# molsyssuite-papers
-MolSysSuite Papers
+# MolSysSuite Papers
